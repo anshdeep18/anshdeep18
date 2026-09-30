@@ -1,12 +1,12 @@
-### Hello, I'm AnshdeeP
+### Hello, I'm Anshdeep
 
 Hello, my name is Anshdeep. I am a recent BSc Financial Mathematics and Statistics graduate from the London School of Economics and now I am studying MSc Statistics (Statistical Finance) at Imperial College London.
 
 I am interested in many things outside of academia including:
 
 - Music
-- gym
-- hiking
+- Gym
+- Hiking
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/a1singh).
 <!--
