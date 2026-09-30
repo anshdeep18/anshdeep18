@@ -1,4 +1,4 @@
-## Workshop 1 Test Practice
+### eLlo, I'm Anshdeep
 
 Hello, my name is Anshdeep. I am a recent BSc Financial Mathematics and Statistics graduate from the London School of Economics and now I am studying MSc Statistics (Statistical Finance) at Imperial College London.
 
@@ -8,7 +8,7 @@ I am interested in many things outside of academia including:
 - gym
 - hiking
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/a1singh).
+Feel free to connect with me on [inkedIn](www.linkedin.com/in/a1singh).
 <!--
 **anshdeep18/anshdeep18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
