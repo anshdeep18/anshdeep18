@@ -7,6 +7,7 @@ I am interested in many things outside of academia including:
 - Music
 - Gym
 - Hiking
+- Cooking
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/a1singh).
 <!--
